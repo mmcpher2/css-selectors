@@ -15,6 +15,10 @@ a .disabled {
     color: purple;
 }
 
+a.disabled {
+    color: purple;
+}
+
 .active {
     color: yellow;
 }
